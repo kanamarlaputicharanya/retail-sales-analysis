@@ -1,1 +1,26 @@
-
+Superstore_Dashboard.xlsx
+│
+├── Sheet 1: Raw_Data
+│   → Original Superstore dataset (before cleaning) 
+│
+├── Sheet 2: Cleaned_Data
+│   → Removed duplicates
+│   → Corrected data types
+│   → Handled missing values
+│   → Standardized data for analysis
+│
+├── Sheet 3: Pivot_Table_1
+│   → Sales Analysis by Category/Sub-Category
+│
+├── Sheet 4: Pivot_Table_2
+│   → Regional Sales & Profit Analysis
+│
+├── Sheet 5: Pivot_Table_3
+│   → Monthly Sales Trend Analysis
+│
+└── Sheet 6: Dashboard
+    → Interactive dashboard
+    → KPI Cards
+    → Pivot Charts
+    → Slicers
+    → Sales & Profit Insights
